@@ -1,0 +1,8 @@
+{
+  "name": "MyMoney",
+  "short_name": "MyMoney",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f7f1",
+  "theme_color": "#327a50"
+}
